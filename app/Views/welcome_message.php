@@ -225,7 +225,7 @@
 
     <div class="heroe">
 
-        <h1>Welcome to CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+        <h1>Welcome to pustaka07 <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
         <h2>The small framework with powerful features</h2>
 
@@ -305,7 +305,7 @@
 
     <div class="copyrights">
 
-        <p>&copy; <?= date('Y') ?> CodeIgniter Foundation. CodeIgniter is open source project released under the MIT
+        <p>&copy; <?= date('Y') ?> CodeIgniter Foundation 4. CodeIgniter is open source project released under the MIT
             open source licence.</p>
 
     </div>
